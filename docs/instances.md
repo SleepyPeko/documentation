@@ -54,9 +54,7 @@
 
 * [invidious.nerdvpn.de](https://invidious.nerdvpn.de) 🇩🇪 
 
-* [inv.n8pjl.ca](https://inv.n8pjl.ca) 🇨🇦  
-
-* [youtube.owacon.moe](https://youtube.owacon.moe) 🇯🇵  
+* [inv.n8pjl.ca](https://inv.n8pjl.ca) 🇨🇦   
 
 * [invidious.jing.rocks](https://invidious.jing.rocks) 🇯🇵  
 
